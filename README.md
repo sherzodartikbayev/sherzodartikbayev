@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Sammi Experience [Sammi Praktikum](https://praktikum.sammi.ac/)
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 
 - 🤝 I’m looking for help with digital marketing to drive traffic to my web-site
 
