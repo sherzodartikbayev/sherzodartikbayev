@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Next.js
 
--🤝 I’m looking for help with digital marketing to drive traffic to my web-site
+- 🤝 I’m looking for help with digital marketing to drive traffic to my web-site
 
 - 📝 I regularly write articles on Telegram [https://t.me/webpro_dev](https://t.me/webpro_dev)
 
