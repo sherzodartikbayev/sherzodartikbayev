@@ -11,7 +11,7 @@
 
 <p align="left">
 <a href="https://t.me/sherzod_artikbayev" target="blank">
-  <img align="center" src="https://cdn-icons-png.freepik.com/256/2111/2111646.png?semt=ais_hybrid" alt="sherzadart74344" 
+  <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-icon.svg" alt="sherzadart74344" 
   height="30" width="40" />
 </a>
   
