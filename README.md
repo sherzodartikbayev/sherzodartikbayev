@@ -3,7 +3,13 @@
 
 - 🔭 I’m currently working on Sammi Experience [Sammi Praktikum](https://praktikum.sammi.ac/)
 
+- 🌱 I’m currently learning Next.js
+
+-🤝 I’m looking for help with digital marketing to drive traffic to my web-site
+
 - 📝 I regularly write articles on Telegram [https://t.me/webpro_dev](https://t.me/webpro_dev)
+
+- 💬 Ask me about Web Development
 
 - 📫 How to reach me **sherzadartikbayev@gmail.com**
 
