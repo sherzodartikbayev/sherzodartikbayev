@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/sherzadart74344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherzadart74344" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sherzod3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherzod3105" height="30" width="40" /></a>
-<a href="https://fb.com/sherzodartikbayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherzodartikbayev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61564378140609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherzodartikbayev" height="30" width="40" /></a>
 <a href="https://instagram.com/sherzad_artikbayevvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherzad_artikbayevvv" height="30" width="40" /></a>
 </p>
 
