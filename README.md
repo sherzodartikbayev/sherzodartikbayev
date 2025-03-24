@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherzod Artikbayev</h1>
 <h3 align="center">I'm Frontend Developer React/Next.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherzodartikbayev&label=Profile%20views&color=0e75b6&style=flat" alt="sherzodartikbayev" /> </p>
-
 - 🔭 I’m currently working on Sammi Experience [Sammi Praktikum](https://praktikum.sammi.ac/)
 
 - 📝 I regularly write articles on Telegram [https://t.me/webpro_dev](https://t.me/webpro_dev)
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherzodartikbayev&show_icons=true&locale=en&layout=compact" alt="sherzodartikbayev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherzodartikbayev&show_icons=true&locale=en" alt="sherzodartikbayev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherzodartikbayev&" alt="sherzodartikbayev" /></p>
